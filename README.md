@@ -14,3 +14,8 @@
 
 ---
 ## Exercícios
+
+- [50 questões de estruturas de seleção](exercicios.md)
+  - **Parte 1** (questões 1–15) — somente `if`
+  - **Parte 2** (questões 16–30) — `if` e `else`
+  - **Parte 3** (questões 31–50) — `if`, `elif` e `else`
