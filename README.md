@@ -10,6 +10,7 @@
 
 ---
 ## Notas de aula [slides pdf](/05-Estruturas_de_selecao.pdf)
+[Respostas dos Exercícios do PDF](/tchufutchufu.py)
 1. Instrução `if`, `else` e `elif`
 ```python
 pais = input()
@@ -35,6 +36,9 @@ print(status)
 
 ---
 ## Exercícios [Lista de exercícios](/lista.md)
+Respostas da lista de exercícios: [Parte 1](https://github.com/VoiidHead/07-notas_de_aula-05-python/blob/main/Lista%20de%20Exerc%C3%ADcios/stift-1.py)
+[Parte 2](https://github.com/VoiidHead/07-notas_de_aula-05-python/blob/main/Lista%20de%20Exerc%C3%ADcios/stift-2.py)
+[Parte 3](https://github.com/VoiidHead/07-notas_de_aula-05-python/blob/main/Lista%20de%20Exerc%C3%ADcios/stift-3.py)
 1. Escreva um programa que tem como entrada um número inteiro e imprime uma mensagem indicando se a entrada é igual ou diferente de 10.
 
 | Exemplo de entrada | Saída esperada | 
